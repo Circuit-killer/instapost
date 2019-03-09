@@ -1,7 +1,7 @@
 #!/bin/bash
 # PostBot created by @thelinuxchoice (Don't change , bitch!)
-# Instagram: @thelinuxchoice
-# Github: https://github.com/thelinuxchoice/postbot
+# Instagram: @linux_choice
+# Github: https://github.com/thelinuxchoice/instapost
 # requires instapy-cli (https://github.com/b3nab/instapy-cli
 username=""
 password=""
